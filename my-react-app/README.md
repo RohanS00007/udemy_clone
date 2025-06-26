@@ -1,8 +1,7 @@
 ### **📚 E-Learning Platform**  
 
 A **Udemy-like** e-learning platform built using **React.js**, enabling seamless course browsing and navigation.  
-🔗 **Live Demo:** [Visit Site](https://course-craft007.netlify.app/)
-
+🔗 **Live Demo:** [Visit Site]()
 ---
 ## 🚀 Features  
 - 📌 **Course Browsing** – View and explore different courses.  
